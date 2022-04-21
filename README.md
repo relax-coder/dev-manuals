@@ -1,22 +1,23 @@
 # dev-manuals
 Useful commands, templates and solutions to make work easy
 
-[toc]
+* [Git](#git)
+* [Docker template](#docker-template)
+* [Spring project](#spring-project)
+* [iOS development](#ios-development)
 
 ## Git
 Check git username and email
-```
-git config user.name
 
-git config user.email
-```
+`git config user.name`
+
+`git config user.email`
 
 Change git username and email
-```
-git config --global user.name "your username"
 
-git config --global user.email "your email address"
-```
+`git config --global user.name "your username"`
+
+`git config --global user.email "your email address"`
 
 Link/Connect local existed project to remote repository
 ```
